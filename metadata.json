@@ -1,0 +1,8 @@
+{
+  "name": "Remix Photo Memory Match",
+  "description": "A photo memory matching game with progressive levels (LEVEL 1: 3 pairs, LEVEL 2: 6 pairs, LEVEL 3: 8 pairs), custom image support, and mobile-optimized responsive layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
