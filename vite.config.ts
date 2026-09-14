@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/sweet-memory-game/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
