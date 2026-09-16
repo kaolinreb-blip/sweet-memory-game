@@ -5,37 +5,37 @@ export const DEFAULT_CARDS: CardDefinition[] = [
   {
     id: 'sweet-shortcake',
     name: 'ショートケーキ',
-    image: '/images/card_1_shortcake.jpg',
+    image: './images/card_1_shortcake.jpg',
     alt: 'いちごのショートケーキ',
   },
   {
     id: 'sweet-cupcake',
     name: 'ショコラカップケーキ',
-    image: '/images/card_2_cupcake.jpg',
+    image: './images/card_2_cupcake.jpg',
     alt: '濃厚チョコレートカップケーキ',
   },
   {
     id: 'sweet-macarons',
     name: 'パステルマカロン',
-    image: '/images/card_3_macarons.jpg',
+    image: './images/card_3_macarons.jpg',
     alt: '3色のパステルマカロン',
   },
   {
     id: 'sweet-tart',
     name: 'フルーツタルト',
-    image: '/images/card_4_fruittart.jpg',
+    image: './images/card_4_fruittart.jpg',
     alt: '色鮮やかなフルーツタルト',
   },
   {
     id: 'sweet-parfait',
     name: '星空パフェ',
-    image: '/images/card_5_parfait.jpg',
+    image: './images/card_5_parfait.jpg',
     alt: '三日月の星空グラスパフェ',
   },
   {
     id: 'sweet-catcookie',
     name: '猫アイシングクッキー',
-    image: '/images/card_6_catcookie.jpg',
+    image: './images/card_6_catcookie.jpg',
     alt: 'リボンをつけた猫のアイシングクッキー',
   },
   {
